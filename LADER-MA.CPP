@@ -1,4 +1,4 @@
-// Pass , Fail , Atkt for 2 subject
+// Pass , Fail and  ATKT for 2 subject using lader else..if  in Marksheet
 #include<iostream.h>
 #include<conio.h>
 void main()
